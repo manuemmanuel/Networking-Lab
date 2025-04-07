@@ -27,3 +27,6 @@ int main(int argc, char* argv[]) {
 
     return 0;
 }
+
+// gcc udpclient.c
+// ./a.out localhost 4000

@@ -33,3 +33,6 @@ int main(int argc, char* argv[]) {
 
     return 0;
 }
+
+// gcc server.c -o server
+// ./server 8080
